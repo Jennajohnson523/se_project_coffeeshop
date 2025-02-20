@@ -121,7 +121,7 @@
     list-style-type: none;
 }
 
-.recipe__video {
+.recipe__iframe {
     max-width: 400px;
     max-height: 273px;
 }
