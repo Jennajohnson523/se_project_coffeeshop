@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+-Understand the flex box principles a little better so it becomes second nature.
+-Practice more on the transitions and animations.
+-Learn all the ways that lists can be created.
